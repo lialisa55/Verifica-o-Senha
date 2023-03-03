@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "VerificacaoSenha/1.0.0": {
+        "runtime": {
+          "VerificacaoSenha.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VerificacaoSenha/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

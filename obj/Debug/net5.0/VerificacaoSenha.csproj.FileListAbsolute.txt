@@ -1,0 +1,16 @@
+C:\Users\Manager\source\repos\VerificacaoSenha\bin\Debug\net5.0\VerificacaoSenha.exe
+C:\Users\Manager\source\repos\VerificacaoSenha\bin\Debug\net5.0\VerificacaoSenha.deps.json
+C:\Users\Manager\source\repos\VerificacaoSenha\bin\Debug\net5.0\VerificacaoSenha.runtimeconfig.json
+C:\Users\Manager\source\repos\VerificacaoSenha\bin\Debug\net5.0\VerificacaoSenha.runtimeconfig.dev.json
+C:\Users\Manager\source\repos\VerificacaoSenha\bin\Debug\net5.0\VerificacaoSenha.dll
+C:\Users\Manager\source\repos\VerificacaoSenha\bin\Debug\net5.0\ref\VerificacaoSenha.dll
+C:\Users\Manager\source\repos\VerificacaoSenha\bin\Debug\net5.0\VerificacaoSenha.pdb
+C:\Users\Manager\source\repos\VerificacaoSenha\obj\Debug\net5.0\VerificacaoSenha.csproj.AssemblyReference.cache
+C:\Users\Manager\source\repos\VerificacaoSenha\obj\Debug\net5.0\VerificacaoSenha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manager\source\repos\VerificacaoSenha\obj\Debug\net5.0\VerificacaoSenha.AssemblyInfoInputs.cache
+C:\Users\Manager\source\repos\VerificacaoSenha\obj\Debug\net5.0\VerificacaoSenha.AssemblyInfo.cs
+C:\Users\Manager\source\repos\VerificacaoSenha\obj\Debug\net5.0\VerificacaoSenha.csproj.CoreCompileInputs.cache
+C:\Users\Manager\source\repos\VerificacaoSenha\obj\Debug\net5.0\VerificacaoSenha.dll
+C:\Users\Manager\source\repos\VerificacaoSenha\obj\Debug\net5.0\ref\VerificacaoSenha.dll
+C:\Users\Manager\source\repos\VerificacaoSenha\obj\Debug\net5.0\VerificacaoSenha.pdb
+C:\Users\Manager\source\repos\VerificacaoSenha\obj\Debug\net5.0\VerificacaoSenha.genruntimeconfig.cache
